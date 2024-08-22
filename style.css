@@ -35,6 +35,11 @@ header p {
   color: #777;
 }
 
+.social-link {
+  width: 25px;
+  height: auto;
+}
+
 /* Section Titles */
 section h2 {
   border-top: 2px solid #333;
