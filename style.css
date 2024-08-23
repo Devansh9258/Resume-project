@@ -38,6 +38,9 @@ header p {
 .social-link {
   width: 25px;
   height: auto;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
 }
 
 /* Section Titles */
